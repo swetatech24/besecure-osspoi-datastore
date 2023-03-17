@@ -137,6 +137,7 @@
       "name": "lightning",
       "full_name": "Be-Secure/lightning",
       "description": "Lightning is a (TV) app development framework that offers great portability and performance.",
+      "bes_technology_stack":"A",
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -155,7 +156,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "A",
+      
       "project_repos": {
         "main_github_url": "https://github.com/rdkcentral/lightning",
         "main_bes_url": "https://github.com/Be-Secure/lightning",
@@ -187,6 +188,7 @@
       "name": "rdkservices",
       "full_name": "Be-Secure/rdkservices",
       "description": "RDK services are a set of JSON-RPC based RESTful services for accessing various set-top box components.",
+      "bes_technology_stack":"A",
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -205,7 +207,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "A",
+      
       "project_repos": {
         "main_github_url": "https://github.com/rdkcentral/rdkservices",
         "main_bes_url": "https://github.com/Be-Secure/rdkservices",
@@ -245,6 +247,7 @@
       "name": "ros_comm",
       "full_name": "Be-Secure/ros_comm",
       "description": "ROS communications-related packages, including core client libraries (roscpp, rospy, roslisp) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).",
+      "bes_technology_stack":"A", 
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -263,7 +266,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "A",
+      
       "project_repos": {
         "main_github_url": "https://github.com/ros/ros_comm",
         "main_bes_url": "https://github.com/Be-Secure/ros_comm",
@@ -295,6 +298,7 @@
       "name": "meta-ros",
       "full_name": "Be-Secure/meta-ros",
       "description": "OpenEmbedded Layers for ROS 1 and ROS 2",
+      "bes_technology_stack":"A",
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -313,7 +317,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "A",
+      
       "project_repos": {
         "main_github_url": "https://github.com/ros/meta-ros",
         "main_bes_url": "https://github.com/Be-Secure/meta-ros",
@@ -2546,6 +2550,7 @@
       "name": "primeng",
       "full_name": "Be-Secure/primeng",
       "description": "TAVOSS-TR: Primeng",
+      "bes_technology_stack":"A",
       "watchers_count": 0,
       "forks_count": 1,
       "stargazers_count": 0,
@@ -2564,7 +2569,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "L&F",
+      
       "project_repos": {
         "main_github_url": "https://github.com/primefaces/primeng",
         "main_bes_url": "https://github.com/Be-Secure/primeng",
