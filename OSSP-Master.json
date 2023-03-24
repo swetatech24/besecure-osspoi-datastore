@@ -4724,8 +4724,7 @@
       },
 
       "tags": ["A", "COM - C", "IND-HLS", "TD-U-W"]
-    }
-		},
+    },
     {
       "id": 249,
       "bes_tracking_id": 249,
@@ -4747,69 +4746,436 @@
       "html_url": "https://github.com/Be-Secure/groovy",
       "homepage": "https://groovy-lang.org",
       "owner": {
-          "login": "Be-Secure",
-          "id": 44028837,
-          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-          "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/Be-Secure",
-          "html_url": "https://github.com/Be-Secure",
-          "followers_url": "https://api.github.com/users/Be-Secure/followers",
-          "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-          "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-          "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-          "repos_url": "https://api.github.com/users/Be-Secure/repos",
-          "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-          "type": "Organization",
-          "site_admin": false
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
       },
       "project_repos": {
-          "main_github_url": "https://github.com/apache/groovy",
-          "main_bes_url": "https://github.com/Be-Secure/groovy",
-          "all_projects": [
-              {
-                  "id": 34039690,
-                  "name": "apache/groovy",
-                  "url": "https://github.com/apache/groovy"
-              }
-          ],
-          "all_bes_repos": [
-              {
-                  "id": 444411862,
-                  "name": "Be-Secure/groovy",
-                  "url": "https://github.com/Be-Secure/groovy"
-              }
-          ]
+        "main_github_url": "https://github.com/apache/groovy",
+        "main_bes_url": "https://github.com/Be-Secure/groovy",
+        "all_projects": [
+          {
+            "id": 34039690,
+            "name": "apache/groovy",
+            "url": "https://github.com/apache/groovy"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 444411862,
+            "name": "Be-Secure/groovy",
+            "url": "https://github.com/Be-Secure/groovy"
+          }
+        ]
       },
       "license": {
-          "key": "apache-2.0",
-          "name": "Apache License 2.0",
-          "spdx_id": "Apache-2.0",
-          "url": "https://api.github.com/licenses/apache-2.0",
-          "node_id": "MDc6TGljZW5zZTI="
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
       },
       "language": {
-          "Java": 13385304,
-          "Groovy": 10684206,
-          "HTML": 81795,
-          "CSS": 79976,
-          "ANTLR": 60109,
-          "Shell": 58187,
-          "Batchfile": 23519,
-          "Smarty": 7825,
-          "JavaScript": 1191
+        "Java": 13385304,
+        "Groovy": 10684206,
+        "HTML": 81795,
+        "CSS": 79976,
+        "ANTLR": 60109,
+        "Shell": 58187,
+        "Batchfile": 23519,
+        "Smarty": 7825,
+        "JavaScript": 1191
       },
-      "tags": [
-          "COM - C",
-          "IND-ALL",
-          "L&F",
-          "TD-C-CA",
-          "Tracked"
-      ]
-      }
-
+      "tags": ["COM - C", "IND-ALL", "L&F", "TD-C-CA", "Tracked"]
+    },
+    {
+      "id": 318,
+      "bes_tracking_id": 318,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/318",
+      "name": "oneDPL",
+      "full_name": "Be-Secure/oneDPL",
+      "description": "oneAPI DPC++ Library (oneDPL) https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-library.html ",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 11835,
+      "open_issues": 0,
+      "created_at": "2023-03-20T07:14:32Z",
+      "updated_at": "2023-03-22T06:57:49Z",
+      "pushed_at": "2023-03-22T07:11:49Z",
+      "git_url": "git://github.com/Be-Secure/oneDPL.git",
+      "clone_url": "https://github.com/Be-Secure/oneDPL.git",
+      "html_url": "https://github.com/Be-Secure/oneDPL",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/oneDPL",
+        "main_bes_url": "https://github.com/Be-Secure/oneDPL",
+        "all_projects": [
+          {
+            "id": 104271404,
+            "name": "oneapi-src/oneDPL",
+            "url": "https://github.com/oneapi-src/oneDPL"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 616331857,
+            "name": "Be-Secure/oneDPL",
+            "url": "https://github.com/Be-Secure/oneDPL"
+          }
+        ]
+      },
+      "license": null,
+      "language": {
+        "C++": 3913305,
+        "Groovy": 68697,
+        "CMake": 31910,
+        "NASL": 11673,
+        "Makefile": 4534,
+        "Shell": 914
+      },
+      "tags": ["COM - C", "IND-ALL", "L&F", "TD-U-AI/ML", "Tracked"]
+    },
+    {
+      "id": 317,
+      "bes_tracking_id": 317,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/317",
+      "name": "oneDNN",
+      "full_name": "Be-Secure/oneDNN",
+      "description": "oneAPI Deep Neural Network Library (oneDNN)",
+      "bes_technology_stack": "DO",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 127434,
+      "open_issues": 0,
+      "created_at": "2023-03-20T07:05:41Z",
+      "updated_at": "2023-03-22T06:51:26Z",
+      "pushed_at": "2023-03-22T07:10:40Z",
+      "git_url": "git://github.com/Be-Secure/oneDNN.git",
+      "clone_url": "https://github.com/Be-Secure/oneDNN.git",
+      "html_url": "https://github.com/Be-Secure/oneDNN",
+      "homepage": "https://www.oneapi.io/open-source/",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/oneDNN",
+        "main_bes_url": "https://github.com/Be-Secure/oneDNN",
+        "all_projects": [
+          {
+            "id": 58414589,
+            "name": "oneapi-src/oneDNN",
+            "url": "https://github.com/oneapi-src/oneDNN"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 616328799,
+            "name": "Be-Secure/oneDNN",
+            "url": "https://github.com/Be-Secure/oneDNN"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "C++": 30409894,
+        "C": 4044950,
+        "Python": 575282,
+        "CMake": 272903,
+        "Assembly": 22181,
+        "Shell": 1241
+      },
+      "tags": ["COM - C", "IND-ALL", "L&F", "TD-U-AI/ML", "Tracked"]
+    },
+    {
+      "id": 319,
+      "bes_tracking_id": 319,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/319",
+      "name": "oneVPL-cpu",
+      "full_name": "Be-Secure/oneVPL-cpu",
+      "description": "oneAPI Video Processing Library (oneVPL) CPU implementation",
+      "bes_technology_stack": "DO",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 21247,
+      "open_issues": 0,
+      "created_at": "2023-03-20T07:17:21Z",
+      "updated_at": "2023-03-22T06:59:47Z",
+      "pushed_at": "2023-03-22T07:12:39Z",
+      "git_url": "git://github.com/Be-Secure/oneVPL-cpu.git",
+      "clone_url": "https://github.com/Be-Secure/oneVPL-cpu.git",
+      "html_url": "https://github.com/Be-Secure/oneVPL-cpu",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/oneVPL-cpu",
+        "main_bes_url": "https://github.com/Be-Secure/oneVPL-cpu",
+        "all_projects": [
+          {
+            "id": 299427837,
+            "name": "oneapi-src/oneVPL-cpu",
+            "url": "https://github.com/oneapi-src/oneVPL-cpu"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 616332850,
+            "name": "Be-Secure/oneVPL-cpu",
+            "url": "https://github.com/Be-Secure/oneVPL-cpu"
+          }
+        ]
+      },
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": {
+        "C++": 3568392,
+        "Python": 326200,
+        "CMake": 60318,
+        "C": 51689,
+        "Shell": 32118,
+        "Starlark": 26917,
+        "Batchfile": 24179,
+        "SCSS": 56
+      },
+      "tags": ["COM - C", "IND-ALL", "L&F"]
+    },
+    {
+      "id": 320,
+      "bes_tracking_id": 320,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/320",
+      "name": "oneVPL-intel-gpu",
+      "full_name": "Be-Secure/oneVPL-intel-gpu",
+      "description": null,
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 44288,
+      "open_issues": 0,
+      "created_at": "2023-03-20T07:19:52Z",
+      "updated_at": "2023-03-22T07:02:52Z",
+      "pushed_at": "2023-03-22T07:13:34Z",
+      "git_url": "git://github.com/Be-Secure/oneVPL-intel-gpu.git",
+      "clone_url": "https://github.com/Be-Secure/oneVPL-intel-gpu.git",
+      "html_url": "https://github.com/Be-Secure/oneVPL-intel-gpu",
+      "homepage": null,
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/oneVPL-intel-gpu",
+        "main_bes_url": "https://github.com/Be-Secure/oneVPL-intel-gpu",
+        "all_projects": [
+          {
+            "id": 357339304,
+            "name": "oneapi-src/oneVPL-intel-gpu",
+            "url": "https://github.com/oneapi-src/oneVPL-intel-gpu"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 616333667,
+            "name": "Be-Secure/oneVPL-intel-gpu",
+            "url": "https://github.com/Be-Secure/oneVPL-intel-gpu"
+          }
+        ]
+      },
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": {
+        "C++": 22896370,
+        "C": 1766123,
+        "Assembly": 575675,
+        "Roff": 198068,
+        "CMake": 125035
+      },
+      "tags": ["COM - C", "IND-ALL", "L&F", "Tracked"]
+    },
+    {
+      "id": 70,
+      "bes_tracking_id": 70,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/70",
+      "name": "oneAPI-spec",
+      "full_name": "Be-Secure/oneAPI-spec",
+      "description": "oneAPI Specification source files",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 27472,
+      "open_issues": 0,
+      "created_at": "2023-03-06T02:37:52Z",
+      "updated_at": "2023-03-22T07:07:10Z",
+      "pushed_at": "2023-03-22T07:50:38Z",
+      "git_url": "git://github.com/Be-Secure/oneAPI-spec.git",
+      "clone_url": "https://github.com/Be-Secure/oneAPI-spec.git",
+      "html_url": "https://github.com/Be-Secure/oneAPI-spec",
+      "homepage": "https://spec.oneapi.com",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/oneAPI-spec",
+        "main_bes_url": "https://github.com/Be-Secure/oneAPI-spec",
+        "all_projects": [
+          {
+            "id": 235458674,
+            "name": "oneapi-src/oneAPI-spec",
+            "url": "https://github.com/oneapi-src/oneAPI-spec"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 610067965,
+            "name": "Be-Secure/oneAPI-spec",
+            "url": "https://github.com/Be-Secure/oneAPI-spec"
+          }
+        ]
+      },
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "language": {
+        "Python": 2175879,
+        "C": 556751,
+        "C++": 445675,
+        "JavaScript": 2291,
+        "HTML": 1867,
+        "Makefile": 1415,
+        "Batchfile": 1411,
+        "CSS": 1133,
+        "Shell": 380,
+        "Dockerfile": 193
+      },
+      "tags": ["COM - C", "A", "IND-ALL", "TD-U-AI/ML"]
+    }
   ]
 }
