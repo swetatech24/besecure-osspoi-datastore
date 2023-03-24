@@ -137,11 +137,6 @@
       "name": "Lightning",
       "full_name": "Be-Secure/Lightning",
       "description": "Lightning is a (TV) app development framework that offers great portability and performance.",
-<<<<<<< HEAD
-      "bes_technology_stack":"A",
-=======
-      "bes_technology_stack": "A",
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -160,11 +155,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-<<<<<<< HEAD
-      
-=======
-
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
+      "bes_technology_stack": "A",
       "project_repos": {
         "main_github_url": "https://github.com/rdkcentral/Lightning",
         "main_bes_url": "https://github.com/Be-Secure/Lightning",
@@ -196,11 +187,6 @@
       "name": "rdkservices",
       "full_name": "Be-Secure/rdkservices",
       "description": "RDK services are a set of JSON-RPC based RESTful services for accessing various set-top box components.",
-<<<<<<< HEAD
-      "bes_technology_stack":"A",
-=======
-      "bes_technology_stack": "A",
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -219,11 +205,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-<<<<<<< HEAD
-      
-=======
-
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
+      "bes_technology_stack": "A",
       "project_repos": {
         "main_github_url": "https://github.com/rdkcentral/rdkservices",
         "main_bes_url": "https://github.com/Be-Secure/rdkservices",
@@ -263,11 +245,6 @@
       "name": "ros_comm",
       "full_name": "Be-Secure/ros_comm",
       "description": "ROS communications-related packages, including core client libraries (roscpp, rospy, roslisp) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).",
-<<<<<<< HEAD
-      "bes_technology_stack":"A", 
-=======
-      "bes_technology_stack": "A",
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -286,11 +263,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-<<<<<<< HEAD
-      
-=======
-
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
+      "bes_technology_stack": "A",
       "project_repos": {
         "main_github_url": "https://github.com/ros/ros_comm",
         "main_bes_url": "https://github.com/Be-Secure/ros_comm",
@@ -322,11 +295,6 @@
       "name": "meta-ros",
       "full_name": "Be-Secure/meta-ros",
       "description": "OpenEmbedded Layers for ROS 1 and ROS 2",
-<<<<<<< HEAD
-      "bes_technology_stack":"A",
-=======
-      "bes_technology_stack": "A",
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -345,11 +313,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-<<<<<<< HEAD
-      
-=======
-
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
+      "bes_technology_stack": "A",
       "project_repos": {
         "main_github_url": "https://github.com/ros/meta-ros",
         "main_bes_url": "https://github.com/Be-Secure/meta-ros",
@@ -2582,11 +2546,6 @@
       "name": "primeng",
       "full_name": "Be-Secure/primeng",
       "description": "TAVOSS-TR: Primeng",
-<<<<<<< HEAD
-      "bes_technology_stack":"A",
-=======
-      "bes_technology_stack": "A",
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
       "watchers_count": 0,
       "forks_count": 1,
       "stargazers_count": 0,
@@ -2605,11 +2564,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-<<<<<<< HEAD
-      
-=======
-
->>>>>>> 262f24e0c0ecea89e3a54e84453a6acaf870c47c
+      "bes_technology_stack": "A",
       "project_repos": {
         "main_github_url": "https://github.com/primefaces/primeng",
         "main_bes_url": "https://github.com/Be-Secure/primeng",
