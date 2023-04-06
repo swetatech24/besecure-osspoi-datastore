@@ -5237,6 +5237,176 @@
       },
 
       "tags": ["A", "COM - C", "IND-HLS", "TD-U-W"]
+    },
+    {
+      "id": 330,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/330",
+      "bes_tracking_id": 330,
+      "name": "aircrack-ng",
+      "full_name": "Be-Secure/aircrack-ng",
+      "description": "WiFi security auditing tools suite",
+      "bes_technology_stack": "S",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 17178,
+      "created_at": "2023-04-05T08:52:46Z",
+      "updated_at": "2023-04-05T10:50:39Z",
+      "pushed_at": "2023-04-05T11:02:47Z",
+      "git_url": "git://github.com/Be-Secure/aircrack-ng.git",
+      "ssh_url": "git@github.com:Be-Secure/aircrack-ng.git",
+      "clone_url": "https://github.com/Be-Secure/aircrack-ng.git",
+      "svn_url": "https://github.com/Be-Secure/aircrack-ng",
+      "homepage": "https://aircrack-ng.org",
+      "owner": {
+        "login": "aircrack-ng",
+        "id": 4042925,
+        "node_id": "MDQ6VXNlcjQwNDI5MjU=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4042925?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/aircrack-ng",
+        "html_url": "https://github.com/aircrack-ng",
+        "followers_url": "https://api.github.com/users/aircrack-ng/followers",
+        "following_url": "https://api.github.com/users/aircrack-ng/following{/other_user}",
+        "gists_url": "https://api.github.com/users/aircrack-ng/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/aircrack-ng/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/aircrack-ng/subscriptions",
+        "organizations_url": "https://api.github.com/users/aircrack-ng/orgs",
+        "repos_url": "https://api.github.com/users/aircrack-ng/repos",
+        "events_url": "https://api.github.com/users/aircrack-ng/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/aircrack-ng/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/aircrack-ng",
+        "main_bes_url": "https://github.com/Be-Secure/aircrack-ng",
+        "all_projects": [
+          {
+            "id": "",
+            "name": "oneapi-src/aircrack-ng",
+            "url": "https://github.com/oneapi-src/aircrack-ng"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": "",
+            "name": "Be-Secure/aircrack-ng",
+            "url": "https://github.com/Be-Secure/aircrack-ng"
+          }
+        ]
+      },
+      "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+      },
+      "language": {
+        "C": 2300345,
+        "M4": 238342,
+        "C#": 206192,
+        "Shell": 146516,
+        "Python": 122764,
+        "Roff": 88191,
+        "Makefile": 75967,
+        "PowerShell": 6834,
+        "Dockerfile": 6650,
+        "C++": 3602,
+        "Tcl": 1016,
+        "CMake": 755,
+        "SmPL": 260
+      },
+      "tags": ["COM - C","IND-CyS", "S","SD-SOC", "TD-C-Ms","TD-U-DAA","Tracked" ]
+    },
+    {
+      "id": 332,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/332",
+      "bes_tracking_id": 332,
+      "name": "alienvault-ossim",
+      "full_name": "Be-Secure/alienvault-ossim",
+      "description": "Open Source Security Information and Event Management (SIEM), provides you with a feature-rich open source SIEM complete with event collection, normalization and correlation. Launched by security engineers because of the lack of available open source products, AlienVault OSSIM was created specifically to address the reality many security profession",
+      "bes_technology_stack": "S",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 54360,
+      "created_at": "2023-04-05T08:55:41Z",
+      "updated_at": "2023-04-05T12:33:40Z",
+      "pushed_at": "2023-04-05T12:51:16Z",
+      "git_url": "git://github.com/Be-Secure/alienvault-ossim.git",
+      "ssh_url": "git@github.com:Be-Secure/alienvault-ossim.git",
+      "clone_url": "https://github.com/Be-Secure/alienvault-ossim.git",
+      "svn_url": "https://github.com/Be-Secure/alienvault-ossim",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/alienvault-ossim",
+        "main_bes_url": "https://github.com/Be-Secure/alienvault-ossim",
+        "all_projects": [
+          {
+            "id": "",
+            "name": "oneapi-src/alienvault-ossim",
+            "url": "https://github.com/oneapi-src/alienvault-ossim"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": "",
+            "name": "Be-Secure/alienvault-ossim",
+            "url": "https://github.com/Be-Secure/alienvault-ossim"
+          }
+        ]
+      },
+      "license": "null",
+      "language": {
+        "PHP": 22335308,
+        "PLpgSQL": 12850406,
+        "Python": 5241028,
+        "JavaScript": 3978345,
+        "C": 2435495,
+        "Perl": 944386,
+        "CSS": 811285,
+        "Shell": 648846,
+        "Euphoria": 101209,
+        "Gherkin": 58405,
+        "Makefile": 57156,
+        "M4": 39417,
+        "Rich Text Format": 36122,
+        "HTML": 28194,
+        "NSIS": 13483,
+        "Roff": 12153,
+        "Elixir": 7089,
+        "Emacs Lisp": 6437,
+        "Hack": 4926,
+        "Augeas": 4777,
+        "Batchfile": 3677,
+        "SWIG": 1413,
+        "Jinja": 302,
+        "GDB": 234
+      },
+      "tags": ["COM - C","IND-BFSI","S","SD-AS","TD-C-Ms","TD-U-DAA","Tracked"]
+      
     }
   ]
 }
