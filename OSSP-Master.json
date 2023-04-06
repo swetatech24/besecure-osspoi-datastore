@@ -5256,7 +5256,7 @@
       "git_url": "git://github.com/Be-Secure/aircrack-ng.git",
       "ssh_url": "git@github.com:Be-Secure/aircrack-ng.git",
       "clone_url": "https://github.com/Be-Secure/aircrack-ng.git",
-      "svn_url": "https://github.com/Be-Secure/aircrack-ng",
+      "html_url": "https://github.com/Be-Secure/aircrack-ng",
       "homepage": "https://aircrack-ng.org",
       "owner": {
         "login": "aircrack-ng",
@@ -5338,7 +5338,7 @@
       "git_url": "git://github.com/Be-Secure/alienvault-ossim.git",
       "ssh_url": "git@github.com:Be-Secure/alienvault-ossim.git",
       "clone_url": "https://github.com/Be-Secure/alienvault-ossim.git",
-      "svn_url": "https://github.com/Be-Secure/alienvault-ossim",
+      "html_url": "https://github.com/Be-Secure/alienvault-ossim",
       "homepage": "",
       "owner": {
         "login": "Be-Secure",
