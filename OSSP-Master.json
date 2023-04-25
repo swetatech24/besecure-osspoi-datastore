@@ -5890,6 +5890,81 @@
         "Shell": 2028
       },
       "tags": ["COM - C", "IND-ALL", "L&F", "Tracked"]
+    },
+    {
+      "id": 376,
+      "bes_tracking_id": 376,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/376",
+      "name": "jackson-databind",
+      "full_name": "Be-Secure/jackson-databind",
+      "description": "General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 1834,
+      "open_issues": 0,
+      "created_at": "2023-04-07T18:28:47Z",
+      "updated_at": "2023-04-07T18:34:59Z",
+      "pushed_at": "2023-04-07T18:34:53Z",
+      "git_url": "git://github.com/Be-Secure/jackson-databind.git",
+      "clone_url": "https://github.com/Be-Secure/jackson-databind.git",
+      "html_url": "https://github.com/Be-Secure/jackson-databind.git",
+      "homepage": null,
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/oneapi-src/SYCLomatic-test",
+        "main_bes_url": "https://github.com/Be-Secure/SYCLomatic-test",
+        "all_projects": [
+          {
+            "id": 491033706,
+            "name": "oneapi-src/SYCLomatic-test",
+            "url": "https://github.com/oneapi-src/SYCLomatic-test"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 376,
+            "name": "Be-Secure/SYCLomatic-test",
+            "url": "https://github.com/Be-Secure/SYCLomatic-test"
+          }
+        ]
+      },
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "language": {
+        "Cuda": 2653500,
+        "C++": 2602258,
+        "Python": 233661,
+        "C": 6059,
+        "Makefile": 2234,
+        "Shell": 2028
+      },
+      "tags": ["COM - C", "IND-ALL", "L&F", "Tracked"]
     }
   ]
 }
