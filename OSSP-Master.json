@@ -6108,5 +6108,152 @@
       },
       "tags": ["COM - C", "IND-ALL", "SD-CS", "S", "Tracked"]
     }
+    ,
+    {
+      "id": 88,
+      "bes_tracking_id": 88,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/88",
+      "name": "dubbo",
+      "full_name": "Be-Secure/dubbo",
+      "description": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 41909,
+      "open_issues": 0,
+      "created_at": "2021-12-14T04:54:10Z",
+      "updated_at": "2022-08-26T01:31:27Z",
+      "pushed_at": "2022-11-14T13:31:56Z",
+      "git_url": "git://github.com/Be-Secure/dubbo.git",
+      "clone_url": "https://github.com/Be-Secure/dubbo.git",
+      "html_url": "https://github.com/Be-Secure/dubbo",
+      "homepage": "https://dubbo.apache.org/",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "html_url": "https://github.com/Be-Secure"
+      },
+            "bes_technology_stack": "A",
+      "project_repos": {
+        "main_github_url": "https://github.com/dubbo/dubbo",
+        "main_bes_url": "https://github.com/Be-Secure/dubbo",
+        "all_projects": {
+          "dubbo": "https://github.com/dubbo/dubbo"
+
+        },
+        "all_bes_repos": [{
+            "id": 438122125,
+            "name": "dubbo",
+            "url": "https://github.com/Be-Secure/dubbo"
+          }
+
+        ]
+      },
+      "license": 
+      {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      }
+      ,  
+      "language": {
+        "Java": 12182850,
+        "Mustache": 50591,
+        "Shell": 15510,
+        "JavaScript": 3258,
+        "Lex": 2076,
+        "Batchfile": 1959,
+        "Dockerfile": 1421
+      },
+
+      "tags": [
+        "A",
+        "IND-ALL",
+        "COM - C"
+      ]
+    }
+    ,
+    {
+      "id": 119,
+      "bes_tracking_id": 119,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/119",
+      "name": "druid",
+      "full_name": "Be-Secure/druid",
+      "description": "Apache druid is a high-performance, java based, open source RPC framework.",
+      "watchers_count": 0,
+      "forks_count": 1,
+      "stargazers_count": 0,
+      "size": 237444,
+      "open_issues": 0,
+      "created_at": "2021-12-14T04:51:35Z",
+      "updated_at": "2021-12-14T04:51:36Z",
+      "pushed_at": "2021-12-14T03:06:01Z",
+      "git_url": "git://github.com/Be-Secure/druid.git",
+      "clone_url": "https://github.com/Be-Secure/druid.git",
+      "html_url": "https://github.com/Be-Secure/druid",
+      "homepage": "https://druid.apache.org/",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "html_url": "https://github.com/Be-Secure"
+      },
+            "bes_technology_stack": "A",
+      "project_repos": {
+        "main_github_url": "https://github.com/druid/druid",
+        "main_bes_url": "https://github.com/Be-Secure/druid",
+        "all_projects": {
+          "druid": "https://github.com/druid/druid"
+
+        },
+        "all_bes_repos": [{
+            "id": 438121602,
+            "name": "druid",
+            "url": "https://github.com/Be-Secure/druid"
+          }
+
+        ]
+      },
+      "license": 
+      {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      }
+      ,  
+      "language": {
+        "Java": 36845946,
+        "TypeScript": 1267473,
+        "TeX": 399468,
+        "SCSS": 112510,
+        "Shell": 84357,
+        "Python": 71793,
+        "JavaScript": 59382,
+        "R": 17002,
+        "Dockerfile": 8777,
+        "Stylus": 7682,
+        "ANTLR": 5547,
+        "CSS": 3878,
+        "Roff": 3617,
+        "Smarty": 3517,
+        "HTML": 2536,
+        "Thrift": 1003,
+        "Makefile": 659,
+        "PostScript": 5
+      },
+
+      "tags": [
+        "A",
+        "IND-ALL",
+        "TD-C-D",
+        "COM - C",
+        "TD-U-Db"   
+      ]
+    }
   ]
 }

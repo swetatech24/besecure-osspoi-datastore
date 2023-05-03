@@ -1,0 +1,102 @@
+[
+    {
+        "version": "dubbo-3.0.3",
+        "release_date": "18-Sep-2021",
+        "criticality_score": "Not Available",
+        "scorecard": "Not Available",
+        "cve_details": [
+            {
+              "Year": "2020",
+              "of_Vulnerabilities": 2,
+              "DoS": null,
+              "Code Execution": 1,
+              "Overflow": null,
+              "Memory_Corruption": null,
+              "Sql_Injection": null,
+              "XSS": null,
+              "Directory_Traversal": null,
+              "Http_Response_Splitting": null,
+              "Bypass_something": null,
+              "Gain_Information": null,
+              "Gain_Privileges": null,
+              "CSRF": null,
+              "File_Inclusion": null,
+              "of_exploits": ""
+            },
+            {
+              "Year": "2021",
+              "of_Vulnerabilities": 10,
+              "DoS": null,
+              "Code Execution": 1,
+              "Overflow": null,
+              "Memory_Corruption": null,
+              "Sql_Injection": null,
+              "XSS": null,
+              "Directory_Traversal": null,
+              "Http_Response_Splitting": null,
+              "Bypass_something": 1,
+              "Gain_Information": null,
+              "Gain_Privileges": null,
+              "CSRF": null,
+              "File_Inclusion": null,
+              "of_exploits": ""
+            },
+            {
+              "Year": "2022",
+              "of_Vulnerabilities": 3,
+              "DoS": null,
+              "Code_Execution": 2,
+              "Overflow": null,
+              "Memory_Corruption": null,
+              "Sql_Injection": null,
+              "XSS": null,
+              "Directory_Traversal": null,
+              "Http_Response_Splitting": null,
+              "Bypass_something": 1,
+              "Gain_Information": null,
+              "Gain_Privileges": null,
+              "CSRF": null,
+              "File_Inclusion": null,
+              "of_exploits": ""
+            },
+            {
+              "Year": "2023",
+              "of_Vulnerabilities": 2,
+              "DoS": null,
+              "Code_Execution": 2,
+              "Overflow": null,
+              "Memory_Corruption": null,
+              "Sql_Injection": null,
+              "XSS": null,
+              "Directory_Traversal": null,
+              "Http_Response_Splitting": null,
+              "Bypass_something": null,
+              "Gain_Information": null,
+              "Gain_Privileges": null,
+              "CSRF": null,
+              "File_Inclusion": null,
+              "of_exploits": ""
+            },
+            {
+              "Year": "Total",
+              "# of Vulnerabilities": 17,
+              "DoS": null,
+              "Code_Execution": 6,
+              "Overflow": null,
+              "Memory_Corruption": null,
+              "Sql_Injection": null,
+              "XSS": null,
+              "Directory_Traversal": null,
+              "Http_Response_Splitting": null,
+              "Bypass_something": 2,
+              "Gain_Information": null,
+              "Gain_Privileges": null,
+              "CSRF": null,
+              "File_Inclusion": null,
+              "of_exploits": ""
+            }
+        ]
+        
+    }
+    
+]
