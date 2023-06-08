@@ -8034,6 +8034,84 @@
         "Shell": 264
       },
       "tags": ["IND-CyS", "S"]
+    },
+    {
+      "id": 172,
+      "bes_tracking_id": 172,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/172",
+      "name": "wagtail",
+      "full_name": "Be-Secure/wagtail",
+      "description": "A Django content management system focused on flexibility and user experience",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 201563,
+      "open_issues": 0,
+      "created_at": "2021-08-05T09:53:35Z",
+      "updated_at": "2023-03-23T04:50:09Z",
+      "pushed_at": "2023-05-09T08:23:09Z",
+      "git_url": "git://github.com/Be-Secure/wagtail.git",
+      "clone_url": "https://github.com/Be-Secure/wagtail.git",
+      "html_url": "https://github.com/Be-Secure/wagtail",
+      "homepage": "https://wagtail.io",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/wagtail/wagtail",
+        "main_bes_url": "https://github.com/Be-Secure/wagtail",
+        "all_projects": [
+          {
+            "id": "",
+            "name": "wagtail/oneTBB",
+            "url": "https://github.com/wagtail/wagtail"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": "",
+            "name": "Be-Secure/wagtail",
+            "url": "https://github.com/Be-Secure/wagtail"
+          }
+        ]
+      },
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "language": {
+        "Python": 7272234,
+        "JavaScript": 702160,
+        "HTML": 610545,
+        "TypeScript": 376152,
+        "SCSS": 233272,
+        "Shell": 6841,
+        "CSS": 2522,
+        "Dockerfile": 2041,
+        "Makefile": 1438
+      },
+      "tags": ["A","IND-CON","COM-C","TD-U-W","Tracked"]
     }
   
   ]
