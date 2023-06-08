@@ -3,7 +3,7 @@
         "version": "dubbo-3.0.3",
         "release_date": "18-Sep-2021",
         "criticality_score": "Not Available",
-        "scorecard": "Not Available",
+        "scorecard": "4.2",
         "cve_details": [
             {
               "Year": "2020",
@@ -97,6 +97,12 @@
             }
         ]
         
+    },
+    {
+      "version": "dubbo-3.1.0",
+      "release_date": "17-Aug-2022",
+      "criticality_score": "0.45116",
+      "scorecard": "3.5",
+      "cve_details": "Not Available"
     }
-    
 ]

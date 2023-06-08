@@ -5,7 +5,12 @@
         "criticality_score": "0.43748",
         "scorecard": "4.1",
         "cve_details": "Not Available"
-       
+    },
+    {
+        "version": "v2.12.0",
+        "release_date": "27-Oct-2022",
+        "criticality_score": "0.42651",
+        "scorecard": "4.1",
+        "cve_details": "Not Available"
     }
-    
 ]

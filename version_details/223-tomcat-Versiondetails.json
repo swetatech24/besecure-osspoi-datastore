@@ -80,6 +80,13 @@
               }
         ]
         
+    },
+    {
+      "version": "10.1.2",
+      "release_date": "09-Nov-2022",
+      "criticality_score": 0.3928,
+      "scorecard": 3.2,
+      "cve_details": "Not Available"
     }
     
 ]
