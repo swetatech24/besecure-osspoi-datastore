@@ -8203,6 +8203,183 @@
                 "S",
                 "Untracked"
             ]
+        },
+        {
+            "id": 432,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/432",
+            "bes_tracking_id": 432,
+            "name": "gto",
+            "full_name": "Be-Secure/gto",
+            "description": "GTO works by creating annotated Git tags in standard format.",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 541,
+            "open_issues": 0,
+            "created_at": "2023-06-26T05:18:27Z",
+            "updated_at": "2023-06-26T05:18:28Z",
+            "pushed_at": "2023-06-19T03:57:40Z",
+            "git_url": "git://github.com/Be-Secure/gto.git",
+            "clone_url": "https://github.com/Be-Secure/gto.git",
+            "html_url": "https://github.com/Be-Secure/gto",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "html_url": "https://github.com/Be-Secure"
+            },
+            "bes_technology_stack": "S",
+            "project_repos": {
+                "main_github_url": "https://github.com/rdkcentral/gto",
+                "main_bes_url": "https://github.com/Be-Secure/gto",
+                "all_projects": {
+                    "gto": "https://github.com/rdkcentral/gto"
+                },
+                "all_bes_repos": [
+                    {
+                        "id": 397463052,
+                        "name": "gto",
+                        "url": "https://github.com/Be-Secure/gto"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "python": 235225
+            },
+            "tags": [
+                "S",
+                "IND-ALL",
+                "COM-C",
+                "TD-C-S",
+                "TD-U-AI/ML"
+            ]
+        },
+        {
+            "id": 433,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/433",
+            "bes_tracking_id": 433,
+            "name": "mlem",
+            "full_name": "Be-Secure/mlem",
+            "description": "A tool to package ,serve and deploy any ML model on any platform",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 1339,
+            "open_issues": 0,
+            "created_at": "2023-06-26T05:39:36Z",
+            "updated_at": "2023-06-26T05:39:36Z",
+            "pushed_at": "2023-06-22T12:28:33Z",
+            "git_url": "git://github.com/Be-Secure/mlem.git",
+            "clone_url": "https://github.com/Be-Secure/mlem.git",
+            "html_url": "https://github.com/Be-Secure/mlem",
+            "homepage": "https://mlem.ai",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "html_url": "https://github.com/Be-Secure"
+            },
+            "bes_technology_stack": "S",
+            "project_repos": {
+                "main_github_url": "https://github.com/rdkcentral/mlem",
+                "main_bes_url": "https://github.com/Be-Secure/mlem",
+                "all_projects": {
+                    "mlem": "https://github.com/rdkcentral/mlem"
+                },
+                "all_bes_repos": [
+                    {
+                        "id": 397463052,
+                        "name": "mlem",
+                        "url": "https://github.com/Be-Secure/mlem"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "python": 235225,
+                "Jinja" : 2166,
+                "HCL": 1869,
+                "Jupyter Notebook" :1693
+            },
+            "tags": [
+                "S",
+                "IND-ALL",
+                "COM-C",
+                "TD-U-AI/ML"
+            ]
+        },
+        {
+            "id": 434,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/434",
+            "bes_tracking_id": 434,
+            "name": "dvc",
+            "full_name": "Be-Secure/dvc",
+            "description": "DVC is a command line tool and VS Code Extension to help you develop reproducible machine learning projects",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 18879,
+            "open_issues": 0,
+            "created_at": "2023-06-26T05:57:37Z",
+            "updated_at": "2023-06-26T05:57:37Z",
+            "pushed_at": "2023-06-26T05:11:21Z",
+            "git_url": "git://github.com/Be-Secure/dvc.git",
+            "clone_url": "https://github.com/Be-Secure/dvc.git",
+            "html_url": "https://github.com/Be-Secure/dvc",
+            "homepage": "https://dvc.org",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "html_url": "https://github.com/Be-Secure"
+            },
+            "bes_technology_stack": "S",
+            "project_repos": {
+                "main_github_url": "https://github.com/rdkcentral/dvc",
+                "main_bes_url": "https://github.com/Be-Secure/dvc",
+                "all_projects": {
+                    "dvc": "https://github.com/rdkcentral/dvc"
+                },
+                "all_bes_repos": [
+                    {
+                        "id": 397463052,
+                        "name": "dvc",
+                        "url": "https://github.com/Be-Secure/dvc"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "python": 2353579,
+                "Shell" : 216
+            },
+            "tags": [
+                "S",
+                "IND-ALL",
+                "COM-C",
+                "TD-U-AI/ML"
+            ]
         }
+
     ]
 }
