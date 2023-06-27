@@ -4,8 +4,7 @@
         "release_date": "31.10.2022",
         "criticality_score": "0.32539",
         "scorecard": 4.1,
-        "cve_details": 
-        [
+        "cve_details": [
             {
                 "Year": 2020,
                 "No_of_Vulnerabilities": 1,
@@ -23,11 +22,7 @@
                 "CSRF": "",
                 "File_Inclusion": "",
                 "No_of_exploits": ""
-              }
-             
-              
+            }
         ]
-
     }
-    
 ]
