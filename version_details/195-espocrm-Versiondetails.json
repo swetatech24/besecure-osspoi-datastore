@@ -5,7 +5,6 @@
         "criticality_score": 0.41687,
         "scorecard": 3.8,
         "cve_details": "Not Available"
-
     },
     {
         "version": "7.2.7",
@@ -13,6 +12,12 @@
         "criticality_score": 0.43966,
         "scorecard": 3.8,
         "cve_details": "Not Available"
-
+    },
+    {
+        "version": "7.5.5",
+        "release_date": "28-Jun-2023",
+        "criticality_score": 0.44703,
+        "scorecard": 4.7,
+        "cve_details": "Not Available"
     }
 ]

@@ -4,9 +4,7 @@
         "release_date": "5-Aug-2022",
         "criticality_score": "0.43878",
         "scorecard": "3.8",
-        "cve_details": 
-        [
-            
+        "cve_details": [
             {
                 "Year": 2020,
                 "No_of_Vulnerabilities": 1,
@@ -80,6 +78,12 @@
                 "No_of_exploits": ""
             }
         ]
+    },
+    {
+        "version": "1.7.42.3",
+        "release_date": "19-Jul-2023",
+        "criticality_score": 0.43122,
+        "scorecard": 5.9,
+        "cve_details": "Not Available"
     }
-    
 ]
