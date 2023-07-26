@@ -61,5 +61,12 @@
                 "# of exploits": 1
             }
         ]
+    },
+    {
+        "version": "1.7",
+        "release_date": "11-May-2022",
+        "criticality_score": 0.362,
+        "scorecard": 4.3,
+        "cve_details": "Not Available"
     }
 ]

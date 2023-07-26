@@ -12,5 +12,12 @@
         "criticality_score": "Not Available",
         "scorecard": 3.7,
         "cve_details": "Not Available"
+    },
+    {
+        "version": "v0.1.74",
+        "release_date": "25-Jun-2023",
+        "criticality_score": 0.43707,
+        "scorecard": 5,
+        "cve_details": "Not Available"
     }
 ]

@@ -62,6 +62,13 @@
                 "No_of_exploits": null
               }
         ]
+    },
+    {
+        "version": "jena-4.9.0",
+        "release_date": "04-Jul-2023",
+        "criticality_score": 0.43228,
+        "scorecard": 5.5,
+        "cve_details": "Not Available"
     }
     
 ]

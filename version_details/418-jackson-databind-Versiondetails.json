@@ -60,5 +60,13 @@
         "No_of_exploits": ""
       }
     ]
+  },
+  {
+    "version": "jackson-databind-2.15.2",
+    "release_date": "31-May-2023",
+    "criticality_score": 0.46492,
+    "scorecard": 6.6,
+    "cve_details": "Not Available"
   }
+
 ]

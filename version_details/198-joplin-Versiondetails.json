@@ -43,6 +43,13 @@
                 "No_of_exploits": ""
               }
         ]
-    }
+    },
+    {
+      "version": "v2.12.8",
+      "release_date": "16-Jul-2023",
+      "criticality_score": 0.48129,
+      "scorecard": 5.2,
+      "cve_details": "Not Available"
+  }
     
 ]
