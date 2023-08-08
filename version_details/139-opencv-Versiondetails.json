@@ -99,5 +99,13 @@
             
         ]
     }
+    ,
+    {
+      "version": "4.8.0",
+      "release_date": "28-Jun-2023",
+      "criticality_score": 0.50823,
+      "scorecard":  5.3,
+      "cve_details": "Not Available"
+    }
     
 ]

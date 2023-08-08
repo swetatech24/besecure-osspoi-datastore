@@ -6,5 +6,13 @@
         "scorecard": 3.9,
         "cve_details": "Not Available"
     }
+    ,
+    {
+        "version": "v8.8.2",
+        "release_date": "29-Jun-2023",
+        "criticality_score": 0.44383,
+        "scorecard": 4.8,
+        "cve_details": "Not Available"
+    }
     
 ]

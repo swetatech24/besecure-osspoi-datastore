@@ -45,5 +45,13 @@
            
         ]
     }
-    
+    ,
+    {
+      "version": "3.14.6",
+      "release_date": "25-Jul-2023",
+      "criticality_score": 0.46315,
+      "scorecard": 5.5,
+      "cve_details": "Not Available"
+    }
+   
 ]

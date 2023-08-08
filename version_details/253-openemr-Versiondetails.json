@@ -61,4 +61,12 @@
       }
     ]
   }
+  ,
+  {
+    "version": "v7_0_1_1",
+    "release_date": "30-May-2023",
+    "criticality_score": 0.4391,
+    "scorecard": 5.4,
+    "cve_details": "Not Available"
+  }
 ]
