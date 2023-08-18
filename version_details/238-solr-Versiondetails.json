@@ -43,5 +43,12 @@
                 "# of exploits": ""
             }
         ]
+    },
+    {
+        "version": "9.3.0",
+        "release_date": "21-Jul-2023",
+        "criticality_score": 0.50215,
+        "scorecard": 4.6,
+        "cve_details": "Not Available"
     }
 ]
