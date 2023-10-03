@@ -8776,6 +8776,170 @@
                 "S",
                 "TD-U-AI/ML"
             ]
+        },
+        {
+            "id": 444,
+            "bes_tracking_id": 444,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/444",
+            "name": "sample-verifier-webapp",
+            "full_name": "Be-Secure/sample-verifier-webapp",
+            "description": "This is sample application to provide quick start on leveraging DICE verification APIs",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 487,
+            "open_issues": 0,
+            "created_at": "2023-09-28T02:13:30Z",
+            "updated_at": "2023-09-28T02:13:30Z",
+            "pushed_at": "2022-11-18T06:16:17Z",
+            "git_url": "git://github.com/Be-Secure/sample-verifier-webapp.git",
+            "clone_url": "https://github.com/Be-Secure/sample-verifier-webapp.git",
+            "html_url": "https://github.com/Be-Secure/sample-verifier-webapp",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/diceid/sample-verifier-webapp",
+                "main_bes_url": "https://github.com/Be-Secure/sample-verifier-webapp",
+                "all_projects": [
+                    {
+                        "id": 514141747,
+                        "name": "diceid/sample-verifier-webapp",
+                        "url": "https://github.com/diceid/sample-verifier-webapp"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 697565145,
+                        "name": "Be-Secure/sample-verifier-webapp",
+                        "url": "https://github.com/Be-Secure/sample-verifier-webapp"
+                    }
+                ]
+            },
+            "license": {
+                "key": "gpl-3.0",
+                "name": "GNU General Public License v3.0",
+                "spdx_id": "GPL-3.0",
+                "url": "https://api.github.com/licenses/gpl-3.0",
+                "node_id": "MDc6TGljZW5zZTk="
+            },
+            "language": {
+                "JavaScript": 25379,
+                "HTML": 3183,
+                "CSS": 981
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-CyS",
+                "TD-C-CA",
+                "Untracked",
+                "TD-U-DLT/BC"
+            ]
+        },
+        {
+            "id": 446,
+            "bes_tracking_id": 446,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/446",
+            "name": "gradio",
+            "full_name": "Be-Secure/gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. \ud83c\udf1f Star to support our work!",
+            "bes_technology_stack": "L&F",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 241719,
+            "open_issues": 0,
+            "created_at": "2023-09-28T09:34:10Z",
+            "updated_at": "2023-09-28T09:55:01Z",
+            "pushed_at": "2023-09-28T09:54:48Z",
+            "git_url": "git://github.com/Be-Secure/gradio.git",
+            "clone_url": "https://github.com/Be-Secure/gradio.git",
+            "html_url": "https://github.com/Be-Secure/gradio",
+            "homepage": "http://www.gradio.app",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/gradio-app/gradio",
+                "main_bes_url": "https://github.com/Be-Secure/gradio",
+                "all_projects": [
+                    {
+                        "id": 162405963,
+                        "name": "gradio-app/gradio",
+                        "url": "https://github.com/gradio-app/gradio"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 697697072,
+                        "name": "Be-Secure/gradio",
+                        "url": "https://github.com/Be-Secure/gradio"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Python": 2373327,
+                "Svelte": 588939,
+                "TypeScript": 487221,
+                "HTML": 119518,
+                "JavaScript": 39097,
+                "CSS": 25767,
+                "Shell": 7642,
+                "MDX": 1670,
+                "Dockerfile": 1571
+            },
+            "tags": [
+                "COM - C",
+                "IND-ALL",
+                "L&F",
+                "TD-C-WA",
+                "TD-U-AI/ML",
+                "Untracked"
+            ]
         }
     ]
 }
